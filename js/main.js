@@ -4,8 +4,8 @@
    ========================================================= */
 const CONFIG = {
   // Número en formato internacional, solo dígitos (código de país + número). Ej: 573001234567
-  whatsapp: '570000000000',
-  phoneDisplay: '+57 000 000 0000',
+  whatsapp: '573108550126',
+  phoneDisplay: '+57 310 855 0126',
   facebook: 'https://www.facebook.com/',
   instagram: 'https://www.instagram.com/',
   address: 'Dirección del local\nCiudad, País',
